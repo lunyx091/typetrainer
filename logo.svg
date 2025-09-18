@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100" width="300" height="100" role="img" aria-label="Lunyx_09 logo">
+  <defs>
+    <!-- Gradient أحمر / أسود -->
+    <linearGradient id="redBlack" x1="0.5" x2="0.5" y1="0" y2="1">
+      <stop offset="90%" stop-color="#de42c4"/>
+      <stop offset="100%" stop-color="#111"/>
+    </linearGradient>
+  </defs>
+
+  <!-- النص -->
+  <text x="100" y="40" text-anchor="middle" 
+        font-family="Segoe UI, Arial, sans-serif" 
+        font-style="italic" 
+        font-weight="300" 
+        font-size="28" 
+        fill="url(#redBlack)">
+    Lunyx_09
+  </text>
+
+</svg>
